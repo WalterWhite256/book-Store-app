@@ -1,0 +1,50 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "New Book Releases for Spring 2025",
+        "description": "Discover the latest book releases coming to your shelves this Spring. From thrilling mysteries to captivating romances, this season has something for every reader!",
+        "author": "Jane Doe",
+        "publishedDate": "2025-03-20",
+        "imageUrl": "/news/news-1.png",
+        "url": "/news/new-book-releases-for-spring-2025"
+      },
+      {
+        "id": 2,
+        "title": "Top 10 Bestsellers of 2025 So Far",
+        "description": "Check out the books that are making waves in the literary world this year! These top 10 bestsellers have been flying off the shelves and are dominating the charts.",
+        "author": "John Smith",
+        "publishedDate": "2025-03-18",
+        "imageUrl": "/news/bestsellers_2025.jpg",
+        "url": "/news/top-10-bestsellers-of-2025-so-far"
+      },
+      {
+        "id": 3,
+        "title": "Author Spotlight: Meet Emma Roberts",
+        "description": "In this month's Author Spotlight, we interview Emma Roberts, the best-selling author of 'Whispers in the Dark'. Get a behind-the-scenes look at her writing process and upcoming projects.",
+        "author": "Emily White",
+        "publishedDate": "2025-03-15",
+        "imageUrl": "/news/emma_roberts.jpg",
+        "url": "/news/author-spotlight-meet-emma-roberts"
+      },
+      {
+        "id": 4,
+        "title": "How to Build Your Reading Habit",
+        "description": "Struggling to read more books? We have expert tips on how to develop and maintain a reading habit. Start your journey to becoming a more consistent reader today!",
+        "author": "Sarah Johnson",
+        "publishedDate": "2025-03-10",
+        "imageUrl": "/news/reading_habit.jpg",
+        "url": "/news/how-to-build-your-reading-habit"
+      },
+      {
+        "id": 5,
+        "title": "Book Review: 'The Silent Watcher'",
+        "description": "Our latest review dives deep into 'The Silent Watcher', a psychological thriller by Alex Carter. Find out if this gripping tale is worth your time!",
+        "author": "David Lee",
+        "publishedDate": "2025-03-05",
+        "imageUrl": "/news/the_silent_watcher.jpg",
+        "url": "/news/book-review-the-silent-watcher"
+      }
+    ]
+  }
+  
